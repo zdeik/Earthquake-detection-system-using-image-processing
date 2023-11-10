@@ -78,15 +78,15 @@ if diff > threshold:
 ## 시스템 구조도 (개념)
 
 [CCTV Streaming]</br>
-↓</br>
+  ↓</br>
 [Frame Capture]</br>
-↓</br>
+  ↓</br>
 [Frame Difference 계산]</br>
-↓</br>
+  ↓</br>
 [Noise Filtering (사람/차량 제외)]</br>
-↓</br>
+  ↓</br>
 [Threshold 판단]</br>
-↓</br>
+  ↓</br>
 [흔들림 이벤트 발생]
 
 ---
