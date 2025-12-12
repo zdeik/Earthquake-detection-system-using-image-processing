@@ -70,7 +70,7 @@ if diff > threshold:
 ## 시스템 흐름도
 
 <div align="center">
-  <img src="./img.webp" width="700px">
+  <img src="./img.webp" width="500px">
 </div>
 
 
