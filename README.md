@@ -67,6 +67,11 @@ if diff > threshold:
 
 ---
 
+시스템 흐름도
+<div align="center"> <img src="./img.webp" width="850px" alt="System Flow Diagram"/> </div>
+
+---
+
 ## 시스템 구조도 (개념)
 
 [CCTV Streaming]</br>
