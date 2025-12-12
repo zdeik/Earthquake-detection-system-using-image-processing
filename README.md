@@ -97,6 +97,7 @@ if diff > threshold:
 본 시스템 개발 과정에서 아이디어를 기반으로 **특허 출원**을 진행하였음
 - ‘영상처리를 활용한 지진 피해 방지 시스템’ 특허 출원 📄
 - (출원 번호 : 10-2023-0117344)
+- https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11667725
 
 ---
 
