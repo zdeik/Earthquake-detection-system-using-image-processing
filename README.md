@@ -1,5 +1,5 @@
 # CCTV 기반 구조물 흔들림 감지 시스템  
-*A Frame-Diff 기반 Real-Time Vibration Detection System (LLM 이전 시대 개발)*
+*A Frame-Diff 기반 Real-Time Vibration Detection System (Pre-LLM 시대의 Classic CV 알고리즘 기반 개발 방식으로 제작)*
 
 본 프로젝트는 **CCTV 영상 프레임의 변화량을 기반으로 구조물의 비정상적 흔들림을 감지하는 시스템**입니다.  
 딥러닝이나 LLM 모델 없이 개발되었으며, **경량·고속·저비용**을 목표로 한 전통 컴퓨터비전 기반 알고리즘으로 구현되었습니다.
